@@ -1,0 +1,1 @@
+var miAplicacion = angular.module('panelnezapp', ['firebase', 'panelnezapp.services']);
